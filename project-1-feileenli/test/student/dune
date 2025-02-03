@@ -1,0 +1,3 @@
+(tests
+  (names student)
+  (libraries project1 oUnit))

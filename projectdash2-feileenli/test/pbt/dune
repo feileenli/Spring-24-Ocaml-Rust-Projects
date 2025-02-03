@@ -1,0 +1,4 @@
+(tests
+ (names pbt)
+ (libraries p2 ounit2 qcheck))
+

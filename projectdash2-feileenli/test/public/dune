@@ -1,0 +1,8 @@
+(tests
+ (names public)
+ (libraries p2 ounit2 testUtils))
+
+(env
+ (dev
+  (flags
+   (:standard -w -20))))

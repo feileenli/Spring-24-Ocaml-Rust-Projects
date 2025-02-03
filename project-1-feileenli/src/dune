@@ -1,0 +1,6 @@
+(library 
+  (name project1)
+  (modules basics funs))
+(env
+  (dev
+    (flags (:standard -warn-error -A))))
